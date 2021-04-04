@@ -2,7 +2,7 @@
   "name": "mrvn",
   "version": "1.0.0",
   "description": "NodeJS version of my Java Discord bot MRVNLFG",
-  "private": true,
+  "private": false,
   "main": "index.js",
   "scripts": {
     "start": "npx cross-env NODE_ENV=production node dist/index.js",
